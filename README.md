@@ -30,3 +30,10 @@ Yasir Shahzad (<yasirshahzad918@gmail.com>)
 
 ## License
 MIT License
+
+
+https://github.com/akkoyun/dWin
+
+https://github.com/pervu/DWIN2_Display/tree/main
+
+https://github.com/ginge/libdgus_ii/tree/master
